@@ -1,2 +1,2 @@
-tabs: ['new.cpp']
+tabs: ['def.cpp']
 run-button: clear && node $$file
