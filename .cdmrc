@@ -1,1 +1,2 @@
 tabs: ['new.cpp']
+run-button: node $$file
