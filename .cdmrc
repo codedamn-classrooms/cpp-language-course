@@ -1,2 +1,2 @@
-tabs: ['def.cpp']
-run-button: clear && node $$file
+tabs: ["def.cpp"]
+run-button: g++ def.cpp -o def.out && ./def.out
