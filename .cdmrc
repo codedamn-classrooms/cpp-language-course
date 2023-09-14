@@ -1,2 +1,2 @@
 tabs: ["def.cpp"]
-run-button: g++ def.cpp -o def.out && ./def.out
+run-button: "g++ def.cpp -o def.out && ./def.out"
