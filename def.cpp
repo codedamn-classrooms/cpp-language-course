@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 
-// Logical Operators Lab
-int main(){
+// Follow the Instructions to solve the lab and execute the code
+int main()
+{
 
-  return 0;
+	return 0;
 }
